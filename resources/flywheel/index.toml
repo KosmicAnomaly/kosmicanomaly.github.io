@@ -291,16 +291,6 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "081150beb987b0d083a8645cef92b6a889bcf26f91078ec8ff50e31f39869954"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "c9900a20c334b32ea20c6558ba930728e7f1179d71a482b93e15e373c799004e"
-metafile = true
-
-[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "8ce6dae0860f63a4ef43525815e9d992efe5e1e7735d0e2202894df44b649bdd"
 metafile = true
@@ -322,10 +312,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "8ea90a90292ef89b77fba94f89870023d002708bf4e1d19e3e78e8ca20f51519"
+hash = "45610425a1e93d8f016260adf6eca593bf3910d0e578277ddc4f2442e3bdcc62"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
+hash = "0f21507a5b1890598a3aa67ec197290a37108248107174e19dc3bf9349400739"
 metafile = true

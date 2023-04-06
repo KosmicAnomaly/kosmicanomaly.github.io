@@ -1,12 +1,12 @@
 name = "FlywheelSMP"
 author = "Kosmic"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0a28992fa3483f2f3dd09a1274a3eeb607ce2d4126ff102e317e87a686ffff3c"
+hash = "3375e37f117137a8a9e011f5712ea71968117a34fd2a05964e37365bfd24a3cd"
 
 [versions]
 fabric = "0.14.19"

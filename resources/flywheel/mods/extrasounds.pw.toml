@@ -1,0 +1,17 @@
+name = "ExtraSounds"
+filename = "extrasounds-2.3.1+1.19.2-1.19.1.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Adds more sounds to Minecraft, like sounds when you scroll the hotbar, the creative inventory, pick up or place items in inventories, and more!"
+
+[download]
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/yV1SwVzK/extrasounds-2.3.1%2B1.19.2-1.19.1.jar"
+hash-format = "sha1"
+hash = "c43ac9ffe58cbf59b90eeb4be1a6aad40ebbfbfd"
+
+[update]
+[update.modrinth]
+mod-id = "uPWCQrVL"
+version = "yV1SwVzK"

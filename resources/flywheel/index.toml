@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
-hash = "f610dae7fe3aaec03532aaad9856b8d76342b401ee02d312740780181df475b3"
+hash = "390940370c2d145a722f66ff7c44700e4a71a1274b2472cdb6e64ed70b3cd66b"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
+hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
 metafile = true
 
 [[files]]

@@ -2,11 +2,6 @@ name = "EnchantedShulkers"
 filename = "enchantedshulkers-1.0.4+1.19.jar"
 side = "both"
 
-[option]
-optional = true
-default = true
-description = "Shows an enchantment glint on enchanted containers"
-
 [download]
 url = "https://cdn.modrinth.com/data/vUi6HFie/versions/QxRvomUF/enchantedshulkers-1.0.4%2B1.19.jar"
 hash-format = "sha1"

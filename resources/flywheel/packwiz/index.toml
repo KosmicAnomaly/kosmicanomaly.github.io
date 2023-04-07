@@ -11,6 +11,11 @@ hash = "eee3778730df9d90b0a135e4cdd2b922360813383bba4a7a3b8b051954231f76"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "72206cfb912e4920f993c1e390725cdfcda1db14eb8c5378e1cf9d74e8976015"
 metafile = true
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantedshulkers.pw.toml"
-hash = "34d232ed52b7bdfd6ea2fd6dc5554436b3f462e0fd61923276b160d6e668235b"
+hash = "29f6f57a4f8fe861db939f260b16c72bf22ef8e904f53bb309779475feeccabf"
 metafile = true
 
 [[files]]

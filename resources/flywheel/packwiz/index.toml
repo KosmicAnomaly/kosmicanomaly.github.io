@@ -26,11 +26,6 @@ hash = "00d681cbb06a1aa3888fad4474c05e57ebbc3cfbec07da688584a5ab5a4e57be"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "8fa504bde6aa9a310d7cd757d97656fe165e0ae99b9bf9a4f87221fdce86ce46"
-metafile = true
-
-[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "d6d354935a3335d05bf136d21427190e2561959ea670c606e64ae861f3dca4d4"
 metafile = true
@@ -146,6 +141,11 @@ hash = "390940370c2d145a722f66ff7c44700e4a71a1274b2472cdb6e64ed70b3cd66b"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
+metafile = true
+
+[[files]]
 file = "mods/enchantedshulkers.pw.toml"
 hash = "29f6f57a4f8fe861db939f260b16c72bf22ef8e904f53bb309779475feeccabf"
 metafile = true
@@ -253,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "5b69f766bda573afa56fa46414c576ae049e3ea41478d40c48e2ca9322f9fb08"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "8d8b64a366a91efd9174ee9fc511eb160089c6b8f465bef1d4e5981ce4fcbcdc"
 metafile = true
 
 [[files]]

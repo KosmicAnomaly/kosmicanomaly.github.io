@@ -306,6 +306,11 @@ hash = "0826d7c9dedbbab6b97012d1a733a0f77867ee30ad11380c110721026c694ad1"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "f460470658f6ff36f575bb36fa6712abec7d1fe5c4e274e73d8ccd9648126c71"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true

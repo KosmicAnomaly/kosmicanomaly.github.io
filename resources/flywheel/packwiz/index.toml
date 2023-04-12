@@ -16,11 +16,6 @@ hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "72206cfb912e4920f993c1e390725cdfcda1db14eb8c5378e1cf9d74e8976015"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "00d681cbb06a1aa3888fad4474c05e57ebbc3cfbec07da688584a5ab5a4e57be"
 metafile = true
@@ -71,6 +66,11 @@ hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "c3bef4bb574f423cc66f222a69b6c9af2491b2029664369f13f34b90a1e7526c"
 metafile = true
@@ -78,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "7ed22be52dd112450b1770ef41d05768a4c44fa04442ffe244dd94fe2de35038"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/image2map.pw.toml"
 hash = "af561f16418d62ddf59ca3ee66740554662f5310147c90c08653332cebc94d10"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "38277c071e79128e516e6f83322775dfd2324a21c4812453e02067b23e3f3b09"
 metafile = true
 
 [[files]]
@@ -323,4 +333,19 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "0f21507a5b1890598a3aa67ec197290a37108248107174e19dc3bf9349400739"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "8ee8b246caf7679273cf74762262aba3b1c06b22185c9a2d491735862d2a0f43"
+metafile = true
+
+[[files]]
+file = "resourcepacks/incendium-optional-resourcepack.pw.toml"
+hash = "6c6c1a235995e6a5ed27cf6b7cf3616de5da5f56a2192b05953d6f04bbd28029"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stardust-biome-name-fix.pw.toml"
+hash = "61e567ba8b174b494c3c1c7a613f68ac227884278f82edce2471181f80f03ace"
 metafile = true

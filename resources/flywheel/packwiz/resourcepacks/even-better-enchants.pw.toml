@@ -2,11 +2,6 @@ name = "Even Better Enchants"
 filename = "EBE_v1.1_1.19.x.zip"
 side = "client"
 
-[option]
-optional = true
-default = true
-description = "Unique textures for Enchanted Books!"
-
 [download]
 url = "https://cdn.modrinth.com/data/6udpuGCH/versions/eByLkWw4/EBE_v1.1_1.19.x.zip"
 hash-format = "sha1"

@@ -1,0 +1,18 @@
+name = "Presence Footsteps"
+filename = "PresenceFootsteps-1.6.4.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Expect to see a more rich and immersive Minecraft world, one where Presence Footsteps adds new and more dynamic sounds for every block the player walks on. Every block has its own material assigned to it, and can make their own, customized sounds to better match what they're made of."
+
+[download]
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/3fEb2K4u/PresenceFootsteps-1.6.4.jar"
+hash-format = "sha1"
+hash = "ca03578ac0ce30c50c9b644babe2db1c7125c669"
+
+[update]
+[update.modrinth]
+mod-id = "rcTfTZr3"
+version = "3fEb2K4u"

@@ -2,10 +2,6 @@ name = "Reese's Sodium Options"
 filename = "reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar"
 side = "client"
 
-[option]
-optional = true
-description = "Alternative Options Menu for Sodium."
-
 [download]
 url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/hkSQ9RqT/reeses_sodium_options-1.4.9%2Bmc1.19.2-build.67.jar"
 hash-format = "sha1"

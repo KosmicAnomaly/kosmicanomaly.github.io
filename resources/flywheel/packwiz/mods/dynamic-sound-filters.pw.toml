@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+default = true
 description = "Adds a few location-based sound filters such as reverb and muffling."
 
 [download]

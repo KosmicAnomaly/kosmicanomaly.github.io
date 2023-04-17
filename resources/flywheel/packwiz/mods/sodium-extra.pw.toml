@@ -2,10 +2,6 @@ name = "Sodium Extra"
 filename = "sodium-extra-0.4.16+mc1.19.2-build.90.jar"
 side = "client"
 
-[option]
-optional = true
-description = "Sodium Extra aims to bring most of OptiFine's eye-candy options to Sodium; in addition to providing some features such as visual bug fixes and other performance options that are not yet available on Sodium."
-
 [download]
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/MTxUvPFz/sodium-extra-0.4.16%2Bmc1.19.2-build.90.jar"
 hash-format = "sha1"

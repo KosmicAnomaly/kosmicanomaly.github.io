@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "eee3778730df9d90b0a135e4cdd2b922360813383bba4a7a3b8b051954231f76"
+hash = "ca02943dbfccdd222f4334cfd03f176b593abcda4a47ab888cdbf216575d2b49"
 metafile = true
 
 [[files]]
@@ -28,6 +28,16 @@ metafile = true
 [[files]]
 file = "mods/banhammer.pw.toml"
 hash = "34ddf7c6b936f4ec2fb4190414fa4bd4f08f9ba66656eb8333aa6062bf83f79e"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "7358afeeeef0b9b55770f207a3210feafc06f6fa604c2c2627fcbc3123ba3a26"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "be15deeef32d9c3b9aa0bbe44420bda699d01a778b1e882008ffdc6cf8a49d06"
 metafile = true
 
 [[files]]
@@ -72,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/charmonium.pw.toml"
-hash = "c3bef4bb574f423cc66f222a69b6c9af2491b2029664369f13f34b90a1e7526c"
+hash = "82a671287dcb9089aa2a244c8ac436265ea13e6eacd7eacd05b47df04dcb069c"
 metafile = true
 
 [[files]]
@@ -102,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "1dfe8fb51238980730b0d97eca5f219fde528f234eb1c1314e186e308f05ea32"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
@@ -127,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "8848bb87974871b0fdb0ae821b81576c239d656d4bde94650b487b3363803067"
+hash = "e7dcbc8b0d3c495f2c30720283d20c9122cacac808b74991ae14171c91676731"
 metafile = true
 
 [[files]]
@@ -142,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
-hash = "390940370c2d145a722f66ff7c44700e4a71a1274b2472cdb6e64ed70b3cd66b"
+hash = "20570ea9f162c6aa35dddbbf1978679f78ae947b7c3adbc0c6d19b5d64d40af7"
 metafile = true
 
 [[files]]
@@ -157,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "68b34894e21d003a431fe65f1be962f045e092024c7cb5ce3d2f2e85e7171fcb"
+hash = "16430d84758a89073e98e588a979e27c1735fce196cb3124470b5f7ada3b854a"
 metafile = true
 
 [[files]]
 file = "mods/extrasounds.pw.toml"
-hash = "0f600f5fad5e6a483c2e7fa45bc22aa28a9ee14a5df7d901e1a4cd60088e56a1"
+hash = "c934896d9be2ac3110fa5b731055064000748aab2e8f786eae8349f5015ed7ff"
 metafile = true
 
 [[files]]
@@ -216,6 +226,11 @@ hash = "0beb20021c0c3ec38796bbaf178f57486df9d21f26638c7a1311bb89cf26c8dc"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "e97f421509e7a7588cb48b2b3699e1db3cd2c2f2365a7fb20776ad08dcb4ff30"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a2675efeb0c3f0f905603668d2f1e7928b12e5e44a97813e7c2915981e9255c7"
 metafile = true
@@ -261,8 +276,13 @@ hash = "ab151f9897d6aab2ddf6c911a3421bda025a5d824a6ccc7dcc9908011e4e2617"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d34056e26222a9129534f3b84b3fe01ed41839100fd4658522e909384de7d4f8"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "5b69f766bda573afa56fa46414c576ae049e3ea41478d40c48e2ca9322f9fb08"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
@@ -276,13 +296,18 @@ hash = "7bb4ffe2058ff6515f2a3e924acc67ed4672b00215d9a5067a3658bc851d0e70"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "06e8d589fbff47c4724c1c0e59b73ca1e87d65e75e7ea7c77bfee11fa3d8c7aa"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "3c64ab9ba7804125a446d385fa721bcf7d7196265f32ca9d98ca6d3ff643b5c1"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "39575cb6618852e88c799576e74a89b56d8b0301a735963434e7aa37712aef4e"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
@@ -317,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "f460470658f6ff36f575bb36fa6712abec7d1fe5c4e274e73d8ccd9648126c71"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
@@ -337,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "8ee8b246caf7679273cf74762262aba3b1c06b22185c9a2d491735862d2a0f43"
+hash = "645376d7ec208a85b0e07af1fc295788d709326320e86dd716d61984860d6c24"
 metafile = true
 
 [[files]]

@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9f18fde3c3e3e5f564a155cdffe85d278b2a272a338d53fb8f141106f7694583"
+hash = "0beb20021c0c3ec38796bbaf178f57486df9d21f26638c7a1311bb89cf26c8dc"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "7273d818d04839704d357654c851d9906bf10bf7f65de661160888e5a2a030dd"
+hash = "7bb4ffe2058ff6515f2a3e924acc67ed4672b00215d9a5067a3658bc851d0e70"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0f21507a5b1890598a3aa67ec197290a37108248107174e19dc3bf9349400739"
+hash = "8b465a1889d9d4995ddb9c2e29e62c28536f7b71b2a6778af654111820770ec6"
 metafile = true
 
 [[files]]

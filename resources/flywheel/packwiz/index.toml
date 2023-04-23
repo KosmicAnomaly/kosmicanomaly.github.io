@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "7bb4ffe2058ff6515f2a3e924acc67ed4672b00215d9a5067a3658bc851d0e70"
+hash = "17cc422ce11a8cdcd240560c17ed6a44eb2e75032f264371f84fc41ffabe0b3a"
 metafile = true
 
 [[files]]
@@ -357,12 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "45610425a1e93d8f016260adf6eca593bf3910d0e578277ddc4f2442e3bdcc62"
+hash = "8ea90a90292ef89b77fba94f89870023d002708bf4e1d19e3e78e8ca20f51519"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8b465a1889d9d4995ddb9c2e29e62c28536f7b71b2a6778af654111820770ec6"
+hash = "ddb32bebc93de51dea1349e9ddd32d9d51dca6b3dffdf69a7e1466e295e2f498"
 metafile = true
 
 [[files]]

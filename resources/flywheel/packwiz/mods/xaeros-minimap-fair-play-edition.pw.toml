@@ -1,13 +1,11 @@
 name = "Xaero's Minimap (Fair-play Edition)"
-filename = "Xaeros_Minimap_FP23.3.1_Fabric_1.19.1.jar"
+filename = "Xaeros_Minimap_FP23.4.0_Fabric_1.19.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b1d94e7523c974909ee76edc59752e6322349079"
-mode = "metadata:curseforge"
+url = "https://chocolateminecraft.com/mods2/minimapfair/Xaeros_Minimap_FP23.4.0_Fabric_1.19.1.jar"
 
-[update]
-[update.curseforge]
-file-id = 4449130
-project-id = 263466
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b47c5400547372f06f6559a6d67bd6548f0da06cfef840469efa9b4df1bcb12d"

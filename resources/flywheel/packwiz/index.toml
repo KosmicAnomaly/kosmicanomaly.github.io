@@ -331,6 +331,11 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
+file = "mods/steam-n-rails.pw.toml"
+hash = "486eea7d3e7054ea6392bcf48f3fda823958597e93e0b02e84adb09f7e0c0d82"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "8ce6dae0860f63a4ef43525815e9d992efe5e1e7735d0e2202894df44b649bdd"
 metafile = true

@@ -136,6 +136,11 @@ hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "d9b4a62782b455d93f7fc8394550620a9d4c060cfd2c19a9c2de0099e434552b"
+metafile = true
+
+[[files]]
 file = "mods/crossstitch.pw.toml"
 hash = "27d8c96d3721eb06ad12bc963d99d50eb1f48fe4c6f19b6c39e8f92876a12e1b"
 metafile = true
@@ -328,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
-metafile = true
-
-[[files]]
-file = "mods/steam-n-rails.pw.toml"
-hash = "486eea7d3e7054ea6392bcf48f3fda823958597e93e0b02e84adb09f7e0c0d82"
 metafile = true
 
 [[files]]

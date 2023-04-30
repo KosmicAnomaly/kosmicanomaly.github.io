@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "be15deeef32d9c3b9aa0bbe44420bda699d01a778b1e882008ffdc6cf8a49d06"
+hash = "6fffe68f87d9b8675bcb3ef84ded3816b2551abf402c2ceb60b26c35bc7deae3"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "0318b9dd838aec0a1b7d5393a80e0119efabbb4dba692ae8dbb239cd849876bd"
+hash = "63c7391b2fe15e99b3b42769cf73667f53fc722587b2d26d16d5a24eaaf891bd"
 metafile = true
 
 [[files]]
@@ -127,17 +127,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "9e0b5062155422d62777c15d14b7767a20d42920aaf582635680bed5ec5a0c84"
+hash = "19d7a6c74d602cd7fec2506804bd703359d9074f9ee9e40b8c061fc192c27a75"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
+hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "d9b4a62782b455d93f7fc8394550620a9d4c060cfd2c19a9c2de0099e434552b"
+hash = "8d03cff468c91772a76e3d52e4b81f8c0a29d0038f408a4be88d857568a2914a"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "0834e0da3d18a9dfcfcc0e71eac509a28f394832b0182508971f819949cfcd28"
+hash = "1a1acac6b4797e12c6d566b88e0d75f63510e85305955d69930dc0dda0b113fe"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0beb20021c0c3ec38796bbaf178f57486df9d21f26638c7a1311bb89cf26c8dc"
+hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "17cc422ce11a8cdcd240560c17ed6a44eb2e75032f264371f84fc41ffabe0b3a"
+hash = "52135269b1393dc8e48b9fd1cdc7fd6b53c3174afa288da54f85c8f3f21fdc12"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]

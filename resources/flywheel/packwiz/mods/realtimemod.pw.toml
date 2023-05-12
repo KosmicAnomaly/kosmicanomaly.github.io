@@ -1,0 +1,13 @@
+name = "Real Time Mod"
+filename = "realtimemod-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lF8Tf2et/versions/1.0.1/realtimemod-1.0.1.jar"
+hash-format = "sha1"
+hash = "acdabd47dfd9f0e12417345dc17d0d5cb24d3369"
+
+[update]
+[update.modrinth]
+mod-id = "lF8Tf2et"
+version = "DnHwa6YX"

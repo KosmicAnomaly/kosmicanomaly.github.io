@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "6fffe68f87d9b8675bcb3ef84ded3816b2551abf402c2ceb60b26c35bc7deae3"
+hash = "073bc4517ed3c4959ac3675c0450a8570b3ec78a37ce0e48999560530179a1a9"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "1a1acac6b4797e12c6d566b88e0d75f63510e85305955d69930dc0dda0b113fe"
+hash = "877f690773624c85e4ac349425625ed90c6a12349fc34e9c370301ab63b14cb6"
 metafile = true
 
 [[files]]
@@ -238,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+metafile = true
+
+[[files]]
+file = "mods/isometric-renders.pw.toml"
+hash = "f5bffa35c1bfde9ba2f91f428347f5ee9f08fd09bec07358aa488873c54f2a58"
 metafile = true
 
 [[files]]

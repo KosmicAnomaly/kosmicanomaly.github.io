@@ -2,6 +2,10 @@ name = "Fabrishot"
 filename = "fabrishot-1.9.2.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Press F9 to take insanely large screenshots."
+
 [download]
 url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/IkbywOGy/fabrishot-1.9.2.jar"
 hash-format = "sha1"
@@ -11,7 +15,3 @@ hash = "e96bd70b49bbc49f13284b3a80bff974d0932ebd"
 [update.modrinth]
 mod-id = "3qsfQtE9"
 version = "IkbywOGy"
-
-[option]
-optional = true
-description = "Press F9 to take insanely large screenshots."

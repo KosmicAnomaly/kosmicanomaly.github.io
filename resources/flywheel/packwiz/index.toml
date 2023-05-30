@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "073bc4517ed3c4959ac3675c0450a8570b3ec78a37ce0e48999560530179a1a9"
+hash = "d45335ff79a1d973e6c57e5bc081e92965ee817380e24891b3b16faa77c20564"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
+hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
+hash = "1a5bc0f47d0a1dec0c0c68f193470758dc81afd44a40d5805b61869e4fd93ab7"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "ab151f9897d6aab2ddf6c911a3421bda025a5d824a6ccc7dcc9908011e4e2617"
+hash = "80e9ec15893549071256f2b674faa2f8f82cc02efb945733f72cc773de3a45e5"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "0826d7c9dedbbab6b97012d1a733a0f77867ee30ad11380c110721026c694ad1"
+hash = "282d7904f6cc484911f80dd8d28569f66efe1ad83d940823c3a7ccecfbdd2a97"
 metafile = true
 
 [[files]]

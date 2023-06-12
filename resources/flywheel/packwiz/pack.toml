@@ -1,6 +1,6 @@
 name = "FlywheelSMP"
 author = "Kosmic"
-version = "1.0.2"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "02be2b3585b914313a08087c830789b49cfcde0e2e7cefae2027621f41e1b158"
 
 [versions]
-fabric = "0.14.19"
+fabric = "0.14.21"
 minecraft = "1.19.2"

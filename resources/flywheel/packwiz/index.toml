@@ -126,6 +126,16 @@ hash = "d16e2176a4cd654213cc47a6e4e0b7b3c6e667a401afbf08584dac8a9685d987"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "7abcfe8d4d1a95251369e0ff007e79285753b0b8e30c2d15a4c785d6e9440367"
+metafile = true
+
+[[files]]
 file = "mods/fabricproxy-lite.pw.toml"
 hash = "92c92ffb7a6ee49e51bf3a34537c9829351e7f702d83c3340843d2095f8f6ad5"
 metafile = true

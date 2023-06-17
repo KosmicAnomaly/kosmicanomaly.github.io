@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "34cfd4a1ee8dda9c94dc45f6c70686cee5c8287099a261e913d4223750ffe53c"
+hash = "0095de6d3525f5d5685df3c5476b09cf2a0fab26c755dac2692e79ee49e2ecaa"
 metafile = true
 
 [[files]]
@@ -203,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/no-portals.pw.toml"
 hash = "3b2f49f8f96aaf975569f3367fa86a075b3c560fd908fec6c36208c0f3bf40a4"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "590e350a65f0c6aba510dbcfaf1eab4a0dc1740b19b2e07a5ffef446e89cf1b7"
 metafile = true
 
 [[files]]

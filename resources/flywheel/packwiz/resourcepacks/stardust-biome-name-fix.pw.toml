@@ -1,13 +1,13 @@
 name = "Stardust Labs Biome Name Fix"
-filename = "Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
+filename = "Stardust Labs Omni-Biome Name Fix v1.6-1.19.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J9bjUrwA/versions/87EwWVWq/Stardust%20Labs%20Omni-Biome%20Name%20Fix%20v1.5-1.19.zip"
+url = "https://cdn.modrinth.com/data/J9bjUrwA/versions/OrEGNg2x/Stardust%20Labs%20Omni-Biome%20Name%20Fix%20v1.6-1.19.zip"
 hash-format = "sha1"
-hash = "b40ed161807426e88f42b8b33ff54b60dce06da2"
+hash = "f0a06beaa00b5076477172f16b0ea5dd870f8b91"
 
 [update]
 [update.modrinth]
 mod-id = "J9bjUrwA"
-version = "87EwWVWq"
+version = "OrEGNg2x"

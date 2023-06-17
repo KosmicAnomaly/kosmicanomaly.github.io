@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Screenshots taken are copied to the clipboard."
 
 [download]

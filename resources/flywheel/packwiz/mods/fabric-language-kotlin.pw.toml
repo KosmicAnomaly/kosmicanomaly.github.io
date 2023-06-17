@@ -1,6 +1,6 @@
 name = "Fabric Language Kotlin"
 filename = "fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/ADg3gvlr/fabric-language-kotlin-1.9.5%2Bkotlin.1.8.22.jar"

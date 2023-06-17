@@ -2,10 +2,6 @@ name = "3D Skin Layers"
 filename = "3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
 side = "client"
 
-[option]
-optional = true
-description = "Renders the player skin layer in 3d."
-
 [download]
 url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/JHapWF9O/3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
 hash-format = "sha1"

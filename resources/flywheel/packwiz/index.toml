@@ -61,6 +61,11 @@ hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7ed22be52dd112450b1770ef41d05768a4c44fa04442ffe244dd94fe2de35038"
 metafile = true
@@ -126,21 +131,6 @@ hash = "d16e2176a4cd654213cc47a6e4e0b7b3c6e667a401afbf08584dac8a9685d987"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "996dc5805cfb6c4a9ca27eeadd573464cf0f21b85f24a81f930afe9b9655f49f"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "7abcfe8d4d1a95251369e0ff007e79285753b0b8e30c2d15a4c785d6e9440367"
-metafile = true
-
-[[files]]
 file = "mods/fabricproxy-lite.pw.toml"
 hash = "92c92ffb7a6ee49e51bf3a34537c9829351e7f702d83c3340843d2095f8f6ad5"
 metafile = true
@@ -148,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
@@ -201,8 +196,28 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
+metafile = true
+
+[[files]]
 file = "mods/no-portals.pw.toml"
 hash = "3b2f49f8f96aaf975569f3367fa86a075b3c560fd908fec6c36208c0f3bf40a4"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "6488429de6059273a902d861e39df9f881ec61f03db06dd36485da36baba3778"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "766c74901386e7e1b8388b7792f3e43946151af25b90cea44815229b450b2746"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "9afe996ab07e8d2adadcb58a8ce39665277194c4c430607b04120612dd6f9925"
 metafile = true
 
 [[files]]
@@ -286,8 +301,18 @@ hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "bf0b6a47818b8263001a8dc87fe3a07ba69a6db47206e221a4c3a0deb35f1cfa"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "511fb7b3ea24222e7bd34e07cc7696cc206b96ffb32a484a6bdb5ac87c97c4ff"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "35334111a08c82e909d4cee54a974040b3fb526d30021a33fe2c70d1b5239025"
+metafile = true
+
+[[files]]
+file = "resourcepacks/computercreate.pw.toml"
+hash = "310cdb86ad49893af29bf20d6b6770aa0d5351e11b8393a47fdaf200f80ba2b3"
 metafile = true
 
 [[files]]

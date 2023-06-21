@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/computercreate.pw.toml"
-hash = "310cdb86ad49893af29bf20d6b6770aa0d5351e11b8393a47fdaf200f80ba2b3"
+hash = "53018079dbe0269cd5272a8718c5c74459b2a91eb7478f66e374dc3cc7730071"
 metafile = true
 
 [[files]]
@@ -323,9 +323,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/stardust-biome-name-fix.pw.toml"
 hash = "a11a3e05eecc0929136743699c2d9503bc2be15dfe4e873f8d8da3eda25faca8"
-metafile = true
-
-[[files]]
-file = "resourcepacks/terralith-biome-saplings.pw.toml"
-hash = "94ad9a6aa114e3723f8100173a8881019c3cc290ba66f62e0764fcacf8f1b8ee"
 metafile = true

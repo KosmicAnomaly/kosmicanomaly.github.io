@@ -1,12 +1,12 @@
 name = "FlywheelSeason2"
 author = "Kosmic"
-version = "1.5.0"
+version = "1.5.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bd339a5db0f3838a4f2932f641353d704079a2bb1506671149f58127e71773fa"
+hash = "4d187be7ff06d8f054a7cb1dbe41277b40e2309f16aa791188003392631a1082"
 
 [versions]
 fabric = "0.14.21"

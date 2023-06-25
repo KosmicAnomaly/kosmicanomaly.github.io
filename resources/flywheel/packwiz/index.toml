@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "0dc7f20b4a046eafd543d4ed0a998eed526e0883c4e14edbdf071c46bbe19a95"
+hash = "6c7f8d3241757968acd939d8c61e059280079bf197249a0afb59b25d0320205a"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "34cfd4a1ee8dda9c94dc45f6c70686cee5c8287099a261e913d4223750ffe53c"
+hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "f2e0eb852868a280135a9239e7b127442b466d61663ead6eee94c841c4965f9a"
+hash = "cfd9e5d05e671d4229d2afee38ba971004ada26cb99f41523d42a1bc1c0aacfe"
 metafile = true
 
 [[files]]
@@ -178,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "f7726099f6dff581ee54bba70fb3ea531dfc492e8b51f9cd2f7737f1df99985d"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "9afe996ab07e8d2adadcb58a8ce39665277194c4c430607b04120612dd6f9925"
+hash = "aaca1e1ba2a75f25352fc13ed047fbf57c08e4dbb59d8106d43c6ebddd7b87be"
 metafile = true
 
 [[files]]

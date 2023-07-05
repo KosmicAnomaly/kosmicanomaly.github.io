@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "f8fc427098d571c784042b01bcc08957f1a5cfe1447c45c778e574271d0d574e"
+hash = "fddff1463681841395f3375fa3c5cf4dd160bec18cf2b944ff578e9b42d1d6ec"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "fd5c552628fcda7f9c6504c5e7f6712bd87d9649e18da8a13028d7d4fa81ff56"
+hash = "f7726099f6dff581ee54bba70fb3ea531dfc492e8b51f9cd2f7737f1df99985d"
 metafile = true
 
 [[files]]

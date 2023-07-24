@@ -2,6 +2,11 @@ name = "Bobby"
 filename = "bobby-4.0.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Caches chunks to allow a greater view distance than the server's view distance"
+
 [download]
 url = "https://cdn.modrinth.com/data/M08ruV16/versions/5UUzbXgz/bobby-4.0.1.jar"
 hash-format = "sha1"

@@ -2,6 +2,11 @@ name = "AmbientSounds"
 filename = "AmbientSounds_FABRIC_v5.2.13_mc1.19.2.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Adds ambient sounds to the world."
+
 [download]
 url = "https://cdn.modrinth.com/data/fM515JnW/versions/HzAe7PdZ/AmbientSounds_FABRIC_v5.2.13_mc1.19.2.jar"
 hash-format = "sha1"

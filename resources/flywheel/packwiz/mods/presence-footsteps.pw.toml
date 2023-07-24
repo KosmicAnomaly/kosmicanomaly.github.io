@@ -2,6 +2,11 @@ name = "Presence Footsteps"
 filename = "PresenceFootsteps-1.6.4.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Adds additional walking sounds to the game."
+
 [download]
 url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/3fEb2K4u/PresenceFootsteps-1.6.4.jar"
 hash-format = "sha1"

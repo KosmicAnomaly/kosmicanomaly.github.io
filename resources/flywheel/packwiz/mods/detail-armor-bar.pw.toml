@@ -2,6 +2,11 @@ name = "Detail Armor Bar"
 filename = "DetailArmorBar-2.6.2+1.19-fabric.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Makes the armor bar look better."
+
 [download]
 url = "https://cdn.modrinth.com/data/hAt6ty93/versions/2.6.2%2B1.19-fabric/DetailArmorBar-2.6.2%2B1.19-fabric.jar"
 hash-format = "sha1"

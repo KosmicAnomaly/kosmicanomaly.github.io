@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+hash = "4373f913b2e1a6634ffc58c542ac792c03ff4c56c9a7f2e69c98a5e6d9866940"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
+hash = "f52f0d50b516d479acd447376b67f3a87b17dc998f8529d4a4a776f9b67f305a"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+hash = "d472b48fcc30683f241183304b4e83c7b342c06b71200b9a5df9099959d8acdd"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
+hash = "8513307a6fa2d390fcf0a17e0ea709f07c9244274472c5cace9f8b1aa86286d0"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "fa30c442ad77b30b45bb2153af5e49ea44b139bd3cabf713d3980f93fdd3c42b"
+hash = "3c816b8827fc816fd682dc6611ff5efae4c6c90a2e182cd79382b8a7b3973a82"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "5193877e240226edc991c82d4d949979ca79f779e555f79093bf3ecbca942ee4"
+hash = "d127569ea5205afbf508ef872cf84f5073db4df2faaf9c8aa8622d60f7be98af"
 metafile = true
 
 [[files]]
@@ -112,17 +112,17 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
+hash = "131014c5d292a15803f79ab2efd9e1cab40405df7bcf64a32fc7a8b9ab86415b"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
+hash = "75ea259d1fb9b5eafb492fc393191be53fc7d548ebc497350f296cd7257079f0"
 metafile = true
 
 [[files]]
 file = "mods/extrasounds.pw.toml"
-hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
+hash = "b647c31507904e501c081e65f5bdc28be5de47079fe96550b9188333e1e796a0"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "0f022f9006aabd3175ee48ad2e92c7095895ccd06be879dc7ac30ba4f8478ea1"
+hash = "4f953a35e03530cd351e3031c9319b558fd20525f3e82cd6f6d79a8e972007ca"
 metafile = true
 
 [[files]]
@@ -222,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
+hash = "aca7e4bd143814398f2d0381cb826e2b304e3b8acba7066c2877b34b86b529c3"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "36a0f51be98cd65d4a07bbd1ddce0059ed635409549a3f961433c460099b02db"
+hash = "dc5a7ced9703c6a3a9aeb9060864ce493138458106525b33382dd06203053f72"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
+hash = "756cfcdf71a766b46ae8644d33a089d6bd61f0fd30b9eeafd359a355fab200aa"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1fb5451e07f74a2557f6f1de9454183e3c3bc818464657680c8096528198e0b9"
+hash = "2158de73534b78411a7a95347255666efd89a96feb0ab6c2ca892414c7969639"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "282d7904f6cc484911f80dd8d28569f66efe1ad83d940823c3a7ccecfbdd2a97"
+hash = "9e9055ad3764e47911b157254e393cc0a85db02914d53be89c8552c80f580834"
 metafile = true
 
 [[files]]
@@ -312,12 +312,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "511fb7b3ea24222e7bd34e07cc7696cc206b96ffb32a484a6bdb5ac87c97c4ff"
+hash = "b1a2fbb24c590b91e32f570c5d202c9bd298e083409c8b71870db185c50fc8e9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "35334111a08c82e909d4cee54a974040b3fb526d30021a33fe2c70d1b5239025"
+hash = "d273a8d9829159697733da5a69d4a774377583ac18a00eaf9e3391f5d5ee1c15"
 metafile = true
 
 [[files]]
